@@ -1,0 +1,18 @@
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\bin\Debug\MonetaPriemnik.exe.config
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\bin\Debug\MonetaPriemnik.exe
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\bin\Debug\MonetaPriemnik.pdb
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.csprojResolveAssemblyReference.cache
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.Form1.resources
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.Properties.Resources.resources
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.csproj.GenerateResource.Cache
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.exe
+c:\users\arman_000\documents\visual studio 2013\Projects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.pdb
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\bin\Debug\MonetaPriemnik.exe.config
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.exe
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.pdb
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\bin\Debug\MonetaPriemnik.exe
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\bin\Debug\MonetaPriemnik.pdb
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.csprojResolveAssemblyReference.cache
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.Form1.resources
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.Properties.Resources.resources
+C:\Users\arman_000\Desktop\VSProjects\MonetaPriemnik\MonetaPriemnik\obj\Debug\MonetaPriemnik.csproj.GenerateResource.Cache
